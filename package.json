@@ -1,0 +1,23 @@
+{
+  "name": "formula-switch",
+  "version": "1.0.4",
+  "description": "A switch function API compatible with spreadsheets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petermoresi/formula-switch.git"
+  },
+  "keywords": [
+    "spreadsheet",
+    "formula"
+  ],
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petermoresi/formula-switch/issues"
+  },
+  "homepage": "https://github.com/petermoresi/formula-switch#readme"
+}

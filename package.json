@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/petermoresi/formula-switch.git"
+    "url": "git+https://github.com/FormulaPages/switch.git"
   },
   "keywords": [
     "spreadsheet",
@@ -17,7 +17,7 @@
   "author": "Peter Moresi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/petermoresi/formula-switch/issues"
+    "url": "https://github.com/FormulaPages/switch/issues"
   },
-  "homepage": "https://github.com/petermoresi/formula-switch#readme"
+  "homepage": "https://github.com/FormulaPages/switch#readme"
 }
